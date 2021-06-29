@@ -7,7 +7,7 @@ które w 1998 r. opublikowało słownik dla systemu DOS.
 
 Jacek Maksymowicz (z inicjatywy Janusza S. Bienia) w 2015 r.
 przygotował maszynę wirtualną z systemem FreeDOS
-(ttps://www.freedos.org/) i zainstalowanym słownikiem --- zasadniczą
+(https://www.freedos.org/) i zainstalowanym słownikiem --- zasadniczą
 trudność stanowiło odczytanie dyskietek, które chyba z racji wieku
 dyskietek i stosowanych napędów odczytywały się z istotnymi błędami.
 
