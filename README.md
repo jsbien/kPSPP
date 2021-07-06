@@ -11,9 +11,16 @@ przygotował maszynę wirtualną z systemem FreeDOS
 trudność stanowiło odczytanie dyskietek, które chyba z racji wieku
 dyskietek i stosowanych napędów odczytywały się z istotnymi błędami.
 
-Maszyna jest udostępnione w formie pliku w formacie OVA (Open Virtual
+W 2021 r. Janusz S. Bień powtórzył instalację używając aktualnej
+wersji FreeDos.
+
+Maszyny są udostępnione w formie pliku w formacie OVA (Open Virtual
 Appliance), który może byc zaimportowany np. przez bezpłatny
 VirtualBox (https://www.virtualbox.org/).
+
+W wersji z 2015 r. słownik uruchamia się samoczynnie. W wersji z 2021
+r. należy - zgodnie z pisemną instrukcją - przejść do katalogu PSPP,
+napisać sl i nacisnąć Enter.
 
 Dokumentacja jest udostępniona w formie tzw. brudnego OCR, czyli bez
 korekty automatycznego rozpoznawania znaków.
